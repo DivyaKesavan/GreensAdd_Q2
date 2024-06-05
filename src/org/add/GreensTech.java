@@ -24,7 +24,17 @@ public class GreensTech {
 		private void greensAnnaNagar()
 		{
 		System.out.println("greensAnnaNagar Method5");	
-		}		
+		}	
+		
+		//Git hub changes
+		
+		private void dIVI()
+		{
+		System.out.println("Divi Method5");	
+		}	
+		
+		
+		
 		public static void main(String[] args) {
 			
 			GreensTech f = new GreensTech();
@@ -33,6 +43,7 @@ public class GreensTech {
 			f.greensTambaram();
 			f.greensVelacherry();
 			f.greensAnnaNagar();
+			f.dIVI();
 		}
 
 
